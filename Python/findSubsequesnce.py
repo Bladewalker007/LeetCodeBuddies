@@ -36,4 +36,6 @@ def findSubsequence(s: str, t: str):
 s= "coaching"
 t= "coding"
 
+print(sorted(s))
+
 findSubsequence(s, t)
